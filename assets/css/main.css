@@ -1680,3 +1680,21 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+		.next-section-navigation {
+			margin-top: 20px;
+			background: none !important;
+			padding: 0 !important;
+		}
+		.next-section-navigation .close {
+			display: none !important;
+		}
+		.next-section-navigation a {
+			border: none;
+			text-align: center;
+			background-color: rgba(128, 0, 0, 0.904);
+			padding: 15px;
+			margin-left: auto;
+			display: inherit;
+			margin: 0 230px;
+			border-radius: 10px;
+		}
